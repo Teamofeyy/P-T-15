@@ -30,3 +30,6 @@ for i in range(1, 6):
 ## Полезный ресурс
 
 - [Markdown Guide](https://www.markdownguide.org) — подробное руководство по разметке Markdown.
+
+## Чтобы просмотреть документацию склонируйте репозитори и запустите файл index.html из папки html
+  
